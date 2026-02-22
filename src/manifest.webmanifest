@@ -8,51 +8,51 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "assets/icons/icon-72.png",
+      "src": "assets/icons/icon-72.webp",
       "sizes": "72x72",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-96.png",
+      "src": "assets/icons/icon-96.webp",
       "sizes": "96x96",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-128.png",
+      "src": "assets/icons/icon-128.webp",
       "sizes": "128x128",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-144.png",
+      "src": "assets/icons/icon-144.webp",
       "sizes": "144x144",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-152.png",
+      "src": "assets/icons/icon-152.webp",
       "sizes": "152x152",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-192.png",
+      "src": "assets/icons/icon-192.webp",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-256.png",
+      "src": "assets/icons/icon-256.webp",
       "sizes": "256x256",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/icon-512.png",
+      "src": "assets/icons/icon-512.webp",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable any"
     }
   ]
